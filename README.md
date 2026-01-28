@@ -1,7 +1,7 @@
 # IV Bag Monitoring System
 
 <img src="https://github.com/nithishiotdeveloper8-tech/IV-Bag-Monitering-System/blob/f57bc194d645ffa2aa525572c2f7a96820d56646/IV%20monitering.jpeg" width="400"/>
-![image alt](https://github.com/nithishiotdeveloper8-tech/IV-Bag-Monitering-System/blob/a9fdc35a0c8e5e08001a89d87f06a222b944f04c/custom%20PCB%20IV%20Monitering.jpeg)
+<img src="https://github.com/nithishiotdeveloper8-tech/IV-Bag-Monitering-System/blob/a9fdc35a0c8e5e08001a89d87f06a222b944f04c/custom%20PCB%20IV%20Monitering.jpeg" width="400"/>
 
 ## About the Project
 This project is an IoT-based IV bag monitoring system.
