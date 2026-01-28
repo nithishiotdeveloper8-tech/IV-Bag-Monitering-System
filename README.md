@@ -6,7 +6,7 @@
   <tr>
     <td align="center">
       <h3>Project Exhibition Model</h3>
-      <img src="https://github.com/nithishiotdeveloper8-tech/IV-Bag-Monitering-System/blob/f57bc194d645ffa2aa525572c2f7a96820d56646/IV%20monitering.jpeg" width="280"/>
+      <img src="https://github.com/nithishiotdeveloper8-tech/IV-Bag-Monitering-System/blob/f57bc194d645ffa2aa525572c2f7a96820d56646/IV%20monitering.jpeg" width="270"/>
     </td>
     <td align="center">
       <h3>Custom PCB Design</h3>
