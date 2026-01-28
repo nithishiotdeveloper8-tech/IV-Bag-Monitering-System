@@ -1,5 +1,7 @@
 # IV Bag Monitoring System
 
+![image alt](https://github.com/nithishiotdeveloper8-tech/IV-Bag-Monitering-System/blob/f57bc194d645ffa2aa525572c2f7a96820d56646/IV%20monitering.jpeg)
+
 ## About the Project
 This project is an IoT-based IV bag monitoring system.
 It helps monitor the IV fluid level and alerts when the fluid is about to finish.
